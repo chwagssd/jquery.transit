@@ -137,9 +137,9 @@ Acknowledgements
 License](http://www.opensource.org/licenses/mit-license.php).
 
 jQuery Transit is authored and maintained by [Rico Sta. Cruz][rsc] with help 
-from it's [contributors][c]. It is sponsored by my startup, [Sinefunc, Inc][sf].
+from it's [contributors][c]. It is sponsored by his startup, [Sinefunc, Inc][sf].
 
- * [My website](http://ricostacruz.com) (ricostacruz.com)
+ * [Rico's website](http://ricostacruz.com) (ricostacruz.com)
  * [Sinefunc, Inc.](http://sinefunc.com) (sinefunc.com)
  * [Github](http://github.com/rstacruz) (@rstacruz)
  * [Twitter](http://twitter.com/rstacruz) (@rstacruz)
