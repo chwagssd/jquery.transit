@@ -2,7 +2,9 @@
 #### Super-smooth CSS3 transformations and transitions for jQuery
 
 jQuery Transit is a plugin for to help you do CSS transformations and 
-transitions in jQuery.
+transitions in jQuery. (this version is forked to include support for 
+translate3d in Chrome, and take advantage of composited layers for
+GPU acceleration in Webkit based rendering engines)
 
 Refer to the [jQuery Transit website](http://ricostacruz.com/jquery.transit) for 
 examples.
